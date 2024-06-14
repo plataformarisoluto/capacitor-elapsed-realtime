@@ -1,0 +1,41 @@
+{
+  "api": {
+    "name": "ElapsedRealtimePlugin",
+    "slug": "elapsedrealtimeplugin",
+    "docs": "",
+    "tags": [],
+    "methods": [
+      {
+        "name": "echo",
+        "signature": "(options: { value: string; }) => Promise<{ value: string; }>",
+        "parameters": [
+          {
+            "name": "options",
+            "docs": "",
+            "type": "{ value: string; }"
+          }
+        ],
+        "returns": "Promise<{ value: string; }>",
+        "tags": [],
+        "docs": "",
+        "complexTypes": [],
+        "slug": "echo"
+      },
+      {
+        "name": "getElapsedRealtime",
+        "signature": "() => Promise<{ elapsedTime: number; }>",
+        "parameters": [],
+        "returns": "Promise<{ elapsedTime: number; }>",
+        "tags": [],
+        "docs": "",
+        "complexTypes": [],
+        "slug": "getelapsedrealtime"
+      }
+    ],
+    "properties": []
+  },
+  "interfaces": [],
+  "enums": [],
+  "typeAliases": [],
+  "pluginConfigs": []
+}

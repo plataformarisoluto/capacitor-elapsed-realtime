@@ -19,10 +19,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/teste/teste.git"
+    "url": "git+https://github.com/plataformarisoluto/capacitor-elapsed-realtime.git"
   },
   "bugs": {
-    "url": "https://github.com/teste/teste/issues"
+    "url": "https://github.com/plataformarisoluto/capacitor-elapsed-realtime/issues"
   },
   "keywords": [
     "capacitor",
