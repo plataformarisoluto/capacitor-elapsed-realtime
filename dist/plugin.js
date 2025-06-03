@@ -5,8 +5,6 @@ var capacitorElapsedRealtime = (function (exports, core) {
 
 	exports.ElapsedRealtime = ElapsedRealtime;
 
-	Object.defineProperty(exports, '__esModule', { value: true });
-
 	return exports;
 
 })({}, capacitorExports);
